@@ -1,0 +1,23 @@
+#red_text{
+    color: rgb(255, 60, 0);
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 25px;
+}
+body{
+    background-color: palegreen;
+}
+
+#lens{
+    height: 40px;
+    width: 40px;
+}
+
+#heading_lens{
+    color: orangered;
+}
+
+#wb{
+    text-align: center;
+}
